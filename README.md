@@ -30,10 +30,7 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
-![React Query](https://img.shields.io/badge/-React%20Query-black?style=flat-square&logo=React%20Query)
-![React Router](https://img.shields.io/badge/-React%20Router-black?style=flat-square&logo=React%20Router)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=764ABC)  
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=764ABC)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
