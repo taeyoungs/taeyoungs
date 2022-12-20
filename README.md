@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 [![Medium Badge](https://img.shields.io/badge/-@youngslog-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@youngslog)](https://medium.com/@youngslog)
 [![Gmail Badge](https://img.shields.io/badge/-xoxodudwkd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xoxodudwkd@gmail.com)](mailto:xoxodudwkd@gmail.com)
 
-- 🏢 석세스모드 FrontEnd Developer (2021.07 ~ 2022.01) React, React Native
 - 🏢 블록오디세이 FrontEnd Developer (2022.02 ~ 2022.10) React
+- 🏢 석세스모드 FrontEnd Developer (2021.07 ~ 2022.01) React, React Native
 
 ## Tech 📚
 
